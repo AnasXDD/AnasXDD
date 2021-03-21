@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasXDD
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning bachelors in CSIT
+- 👀 I’m interested in Deep learning
+- 🌱 I’m currently Doing my Bachelors in CSIT
 
 <!---
 AnasXDD/AnasXDD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
