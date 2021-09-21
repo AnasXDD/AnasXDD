@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AnasXDD
-- 👀 I’m interested in Deep learning
 - 🌱 I’m currently Doing my Bachelors in CSIT
 
 <!---
